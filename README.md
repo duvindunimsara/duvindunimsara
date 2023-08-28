@@ -7,10 +7,11 @@
 
 
 - 🌱 I’m currently learning @ SLIIT
+-  📫 How to reach me: nimsaraduvindu@email.com
+- 😄 Pronouns: He/Him
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
-- 📫 How to reach me: nimsaraduvindu@email.com
-- 😄 Pronouns: He/Him
+
 <!--- ⚡ Fun fact: ...-->
 
