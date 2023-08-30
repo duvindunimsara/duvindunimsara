@@ -1,4 +1,4 @@
-### <div align="center">I'm DUVINDU NIMSARA 😇
+### <div align="center">Hi there 👋 I am DUVINDU NIMSARA
 Undergraduate student of  Sri Lanka Institute of Information Technology👨‍🎓</div>  
 
 <div align="center">
