@@ -33,27 +33,6 @@
   </a>  
 </div>
 
-<h1 align="center">Hi 👋, I'm Lahiru Udayakumara</h1>
-
-<div align="center">I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div> 
-
-###  
-
-- 🔭 I’m currently working on Fiverr/Upwork
-  
-
-- 🌱 I’m currently Software Engineering Undergraduate
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
 
