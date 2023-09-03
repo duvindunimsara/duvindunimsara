@@ -94,28 +94,11 @@ Undergraduate student of  Sri Lanka Institute of Information Technology👨‍�
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=it22319692&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
+### Github Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duvindunimsara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="250" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=duvindunimsara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  width="250" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=duvindunimsara&show_icons=true&count_private=true&hide_border=true" width="250" height="150" />
+</div>  
   
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
